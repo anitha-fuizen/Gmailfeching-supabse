@@ -6,7 +6,7 @@ import axios from "axios";
 
 const config = {
   clientId:
-    "307564622354-08vlu4d3t6q34pnn8vophkc18b0ohkn3.apps.googleusercontent.com",
+    "your client id",
   redirectUrl: "http://localhost:3000",
   scopes: ["https://www.googleapis.com/auth/gmail.readonly"],
 };
